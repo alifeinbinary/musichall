@@ -1,8 +1,11 @@
 #root {
   max-width: 1280px;
   margin: 0 auto;
-  background-color: wheat;
   height: 100vh;
+}
+
+body {
+  background-color: wheat;
 }
 
 /* .logo {
@@ -49,4 +52,8 @@
 .btn:hover {
   color: #D5A765;
   transition: color 300ms;
+}
+
+.mail-icon {
+  font-size: 1.0em;
 }
