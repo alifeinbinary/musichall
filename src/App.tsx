@@ -9,7 +9,7 @@ function App() {
     <>
       <div className="grid grid-cols-2 p-4">
         <div className="flex flex-col justify-center items-center">
-          <img className='h-auto max-w-xl rounded-lg drop-shadow' src="../public/vertical_bird-screaming.webp" alt="bird screaming cover" />
+          <img className='h-auto max-w-xl rounded-lg drop-shadow' src="../vertical_bird-screaming.webp" alt="bird screaming cover" />
         </div>
         <div className="flex flex-col justify-end mb-8">
 
