@@ -12,7 +12,7 @@ function App() {
         <div className="flex flex-col justify-center items-center">
           <img className='h-auto rounded-lg drop-shadow-lg' src="../vertical_bird-screaming-800x1000.webp" alt="bird screaming cover" width={"800px"} height={"1000px"} />
         </div>
-        <div className="flex flex-col justify-end text-center align-middle md:text-left md:mb-4 mt-4 pl-0 md:pl-8">
+        <div className="flex flex-col justify-end text-center align-middle md:text-left md:mb-8 mt-8 pl-0 md:pl-8">
 
           <h1 className="text-5xl font-extrabold">New album <br />Bird Screaming<br />
             <small className="font-semibold text-gray-500">out now!</small>
