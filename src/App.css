@@ -57,3 +57,8 @@ body {
 .mail-icon {
   font-size: 1.0em;
 }
+
+.spotify-embed {
+  border-radius: 12px;
+  border-color: transparent;
+}
